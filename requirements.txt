@@ -1,0 +1,12 @@
+seaborn
+matplotlib
+sklearn
+numpy
+wheel
+pandas
+umap-learn
+trimap
+altair
+jupyter
+python-igraph
+leidenalg
