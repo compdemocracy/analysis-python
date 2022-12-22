@@ -1,4 +1,4 @@
-# Polis Analysis
+# Polis Analysis Notebooks, Python
 
 This (WIP) repository contains code for analyzing Polis conversation data in Jupyter notebooks.
 
