@@ -10,3 +10,4 @@ altair
 jupyter
 python-igraph
 leidenalg
+ipykernel

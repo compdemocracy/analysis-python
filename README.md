@@ -11,4 +11,4 @@ We recommend installing pyenv to install python3. From there in the root of this
 3. `pip install -r requirements.txt`
 4. `jupyter notebook`
 
-There are two datasets included. Please note the CompDem open data repository on this Github account contains more examples of Polis conversations.
+There are datasets included for convenience. Please note the CompDem open data repository on this Github account contains more examples.
